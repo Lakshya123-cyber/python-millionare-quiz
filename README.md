@@ -1,6 +1,6 @@
 # Python Millionaire CLI Tool
 
-A super fancy CLI tool. 
+A super fancy CLI tool. *Uhhhh Node.js is required btw*
 
 ## Take the Quiz
 
