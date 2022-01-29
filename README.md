@@ -5,7 +5,7 @@ A super fancy CLI tool.
 ## Take the Quiz
 
 ```
-npx firequiz
+npx pythonquiz
 ```
 
 ## Packages Used
