@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/Lakshya123-cyber/python-millionare-quiz"
   },
+  "homepage": "https://raikwal-homepage.vercel.app",
   "scripts": {
     "start": "node ."
   },
